@@ -1,7 +1,7 @@
 {
   "_development": true,
-  "_from": "github:nmathar/craft-plugin-downloader#master",
-  "_id": "craft-plugin-downloader@github:nmathar/craft-plugin-downloader#master",
+  "_from": "github:nmathar/craft-plugin-downloader#main",
+  "_id": "craft-plugin-downloader@github:nmathar/craft-plugin-downloader#main",
   "_inBundle": false,
   "_integrity": "",
   "_location": "/craft-plugin-downloader",
@@ -23,17 +23,17 @@
   },
   "_requested": {
     "type": "git",
-    "raw": "github:nmathar/craft-plugin-downloader#master",
-    "rawSpec": "github:nmathar/craft-plugin-downloader#master",
-    "saveSpec": "github:nmathar/craft-plugin-downloader#master",
+    "raw": "github:nmathar/craft-plugin-downloader#main",
+    "rawSpec": "github:nmathar/craft-plugin-downloader#main",
+    "saveSpec": "github:nmathar/craft-plugin-downloader#main",
     "fetchSpec": null,
-    "gitCommittish": "master"
+    "gitCommittish": "main"
   },
   "_requiredBy": [
     "#DEV:/"
   ],
-  "_resolved": "github:nmathar/craft-plugin-downloader#master",
-  "_spec": "github:nmathar/craft-plugin-downloader#master",
+  "_resolved": "github:nmathar/craft-plugin-downloader#main",
+  "_spec": "github:nmathar/craft-plugin-downloader#main",
   "bin": {
     "craft-plugin-downloader": "index.js"
   },
